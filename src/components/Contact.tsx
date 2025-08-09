@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { motion } from 'framer-motion';
 import emailjs from '@emailjs/browser';
+import { em } from 'framer-motion/client';
 
 type FormValues = {
   name: string;
@@ -64,6 +65,7 @@ const Contact = () => {
           from_email: data.email,
           message: data.message,
           reply_to: data.email,
+          email: data.email, // For EmailJS compatibility
         },
         { publicKey: config.publicKey as string }
       );
