@@ -26,8 +26,7 @@
       "description": [
         "Built core backend systems for the admin dashboard, product catalog, and promotions, supporting 10K+ monthly transactions. Added mini-games that increased session time by 35% and repeat visits by 20%.",
         "Integrated backend APIs for popular games like Bingo Bash and Classic Casino, connecting with Scopely servers to manage live sessions and rewards for millions of users. Ensured low-latency, high-availability APIs.",
-        "Enhanced the user interface and resolved frontend issues in Fleet Drive 360 using React.js, collaborating in a Scrum team and managing tasks via Jira to ensure stable releases.",
-        "Bullet 4"
+        "Enhanced the user interface and resolved frontend issues in Fleet Drive 360 using React.js, collaborating in a Scrum team and managing tasks via Jira to ensure stable releases."
       ],
       "technologies": ["React", "Jeera", "Node.js", "Express.js", "MongoDB", "PostgreSQL"]
     },
@@ -39,8 +38,7 @@
       "description": [
         "Engineered an AI-based sales chatbot to provide 24/7 customer assistance, automate lead qualification, and shorten the sales cycle through real-time interaction and improved engagement.",
         "Directed sprint planning and provided technical leadership to two developers, delivering features 20% faster and ensuring stable releases for the logistics platform in a high-pressure setting.",
-        "EArchitected backend services for a last-mile delivery platform using NestJS, PostgreSQL, WebSockets, and Redis. Implemented route optimization, live vehicle tracking, and automated alert systems. Boosted delivery success rate by 25%.",
-        "Bullet 4"
+        "EArchitected backend services for a last-mile delivery platform using NestJS, PostgreSQL, WebSockets, and Redis. Implemented route optimization, live vehicle tracking, and automated alert systems. Boosted delivery success rate by 25%."
       ],
       "technologies": ["React", "Jeera", "Node.js", "Express.js", "MongoDB", "PostgreSQL", "NestJS", "Redis", "WebSockets", "AI", "Chatbot", "Docker"]
     }
