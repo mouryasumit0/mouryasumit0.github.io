@@ -1,16 +1,17 @@
-# Sumit Mourya - Personal Portfolio
+# Sumit Mourya - AI-Powered Full-Stack Developer
 
-A modern, responsive personal portfolio website built with Next.js, TypeScript, and Tailwind CSS.
+A modern, responsive personal portfolio showcasing AI-powered full-stack work, built with Next.js, React, TypeScript, and Tailwind CSS.
 
 ## Features
 
+- 🤖 AI-powered experiences and integrations
 - 🎨 Modern and clean design
 - 📱 Fully responsive layout
 - ⚡ Fast loading with Next.js optimizations
 - 🎭 Smooth animations with Framer Motion
 - 🌙 Dark/Light mode support (coming soon)
 - 📧 Contact form with EmailJS integration
-- 📈 SEO optimized
+- 📈 SEO optimized (Open Graph + Twitter)
 - 🔒 TypeScript for type safety
 
 ## Tech Stack
@@ -21,6 +22,8 @@ A modern, responsive personal portfolio website built with Next.js, TypeScript, 
 - **Styling:** Tailwind CSS
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
+- **Backend:** Node.js, NestJS
+- **Data/Infra:** Supabase, PostgreSQL, Redis
 - **Deployment:** Vercel
 
 ## Getting Started
@@ -131,6 +134,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Sumit Mourya - [your-email@example.com](mailto:your-email@example.com)
+Sumit Mourya - [mouryasumit0@gmail.com](mailto:mouryasumit0@gmail.com)
+
+Site: https://mouryasumit0.github.io/
 
 Project Link: [https://github.com/sumitmourya/portfolio](https://github.com/sumitmourya/portfolio)
