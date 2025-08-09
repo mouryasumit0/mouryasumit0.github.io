@@ -12,6 +12,11 @@ type FormValues = {
   honeyPot?: string;
 };
 
+type Notice = {
+  type: 'success' | 'error' | 'info';
+  message: string;
+};
+
 const Contact = () => {
   const {
     register,
@@ -20,7 +25,7 @@ const Contact = () => {
     formState: { errors, isSubmitting },
   } = useForm<FormValues>();
 
-  const [notice, setNotice] = useState<Notice>(null);
+  const [notice, setNotice] = useState<Notice | null>(null);
 
   // Auto dismiss notice after 5s
   useEffect(() => {
