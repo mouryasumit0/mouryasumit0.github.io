@@ -95,6 +95,20 @@ Edit the data in `src/data/portfolio.ts` to customize:
 npm run build
 ```
 
+## Contact Form Setup (EmailJS)
+
+1. Create an account at https://www.emailjs.com/
+2. Create a Service and a Template.
+3. Add the following to your .env.local:
+
+```
+NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
+NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
+```
+
+4. Restart the dev server after editing environment variables.
+
 ## Project Structure
 
 ```
@@ -119,9 +133,9 @@ src/
 - [x] Hero/Landing
 - [x] About
 - [x] Skills
-- [ ] Projects (coming next)
-- [ ] Experience (coming next)
-- [ ] Contact Form (coming next)
+- [x] Projects
+- [x] Experience
+- [x] Contact Form
 - [ ] Footer (coming next)
 
 ## Contributing
