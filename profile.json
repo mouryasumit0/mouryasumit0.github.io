@@ -1,0 +1,69 @@
+{
+  "personalInfo": {
+    "name": "Sumit Mourya",
+    "role": "AI-Powered Full-Stack Developer",
+    "tagline": "Crafting Intelligent Solutions with AI",
+    "description": "I am a passionate AI-powered full-stack developer with expertise in TypeScript, Node.js, Next.js, NestJS and React. I specialize in building scalable server-side solutions and integrating AI technologies to create intelligent applications.",
+    "email": "mouryasumit0@gmail.com",
+    "phone": "+91-9893644031",
+    "location": "Indore, India",
+    "profileImage": "/images/profile.jpg",
+    "resumeUrl": "/resume/Sumit_Mourya_Resume.pdf",
+    "siteUrl": "https://mouryasumit0.github.io/"
+  },
+  "socialLinks": [
+    { "platform": "GitHub", "url": "https://github.com/mouryasumit0" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/sumit-mourya18/" },
+    { "platform": "Twitter", "url": "https://x.com/mouryasumit0" },
+    { "platform": "Email", "url": "mailto:mouryasumit0@gmail.com" }
+  ],
+  "experiences": [
+    {
+      "id": "1",
+      "company": "Innowyze Global Solution (A part of The MetroMax Group), Bengaluru, Karnataka (Remote)",
+      "role": "Intern - Node.js Developer",
+      "duration": "Jul 2022 - Jan 2024",
+      "description": [
+        "Built core backend systems for the admin dashboard, product catalog, and promotions, supporting 10K+ monthly transactions. Added mini-games that increased session time by 35% and repeat visits by 20%.",
+        "Integrated backend APIs for popular games like Bingo Bash and Classic Casino, connecting with Scopely servers to manage live sessions and rewards for millions of users. Ensured low-latency, high-availability APIs.",
+        "Enhanced the user interface and resolved frontend issues in Fleet Drive 360 using React.js, collaborating in a Scrum team and managing tasks via Jira to ensure stable releases.",
+        "Bullet 4"
+      ],
+      "technologies": ["React", "Jeera", "Node.js", "Express.js", "MongoDB", "PostgreSQL"]
+    },
+        {
+      "id": "2",
+      "company": "Innowyze Global Solution (A part of The MetroMax Group), Bengaluru, Karnataka (Remote)",
+      "role": "Node.js Developer",
+      "duration": "Jan 2024 - Apr 2025",
+      "description": [
+        "Engineered an AI-based sales chatbot to provide 24/7 customer assistance, automate lead qualification, and shorten the sales cycle through real-time interaction and improved engagement.",
+        "Directed sprint planning and provided technical leadership to two developers, delivering features 20% faster and ensuring stable releases for the logistics platform in a high-pressure setting.",
+        "EArchitected backend services for a last-mile delivery platform using NestJS, PostgreSQL, WebSockets, and Redis. Implemented route optimization, live vehicle tracking, and automated alert systems. Boosted delivery success rate by 25%.",
+        "Bullet 4"
+      ],
+      "technologies": ["React", "Jeera", "Node.js", "Express.js", "MongoDB", "PostgreSQL", "NestJS", "Redis", "WebSockets", "AI", "Chatbot", "Docker"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "AskKaka - AI-Powered Chatbot",
+      "description": "Multilingual AI Chatbots for Indian Businesses",
+      "technologies": ["Next.js", "Supabase", "Gemini", "TypeScript"],
+      "githubLink": "https://github.com/mouryasumit0/askKaka.in",
+      "demoLink": "https://ask-kaka-in.vercel.app/",
+      "image": "/images/projects/image.png",
+      "featured": true
+    }
+  ],
+  "skills": [
+    { "category": "Programming Languages", "items": ["JavaScript", "TypeScript"] },
+    { "category": "Backend Technologies", "items": ["Node.js", "Express.js", "NestJs", "Supabase"] },
+    { "category": "Databases", "items": ["PostgreSQL", "MongoDB", "Redis"] }
+  ],
+  "options": {
+    "replaceExistingExperiences": true,
+    "replaceExistingProjects": true
+  }
+}
